@@ -1,3 +1,6 @@
+![screenshot](/images/musicplayer.png)
+
+
 This project is a music app which is very easy to use, made using Tkinter and Pygame.
 To start using this app, the user first has to add a song to queue by either selecting
 the option of “Add a song” from the taskbar under “File” or by
