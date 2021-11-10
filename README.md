@@ -14,15 +14,15 @@ user to exit the party.
 The song queue is displayed in the right frame under the title “Your
 Song Queue”. This app also allows the user to control his music using
 the following buttons:
-1) Play – The middlemost play button is used to play songs after they
+ ✔ **Play** – The middlemost play button is used to play songs after they
 have been added into and selected from the song queue.
-2) Pause – The pause button allows the user to pause a song and
+ ✔ **Pause** – The pause button allows the user to pause a song and
 continue playing it.
-3) Forward – The forward button allows the user to jump to the next
+ ✔ **Forward** – The forward button allows the user to jump to the next
 song.
-4) Backward – The backward button allows the user to jump to the
+ ✔ **Backward** – The backward button allows the user to jump to the
 previous song.
-5) Stop – The stop button allows the user to stop the currently playing
+ ✔ **Stop** – The stop button allows the user to stop the currently playing
 song.
 The name of the song played in also displayed on the top.
 
